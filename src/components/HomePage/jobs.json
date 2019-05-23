@@ -1,0 +1,74 @@
+{
+    "results":{
+        "1" : {
+            "id_lowongan":1,
+            "posisi":'Programmer',
+            "jenis_lowongan":'Full Time',
+            "nama_mitra":'PSI USU',
+            lokasi:'Medan'
+        },
+        {
+            id_lowongan:2,
+            posisi:'Programmer Java',
+            jenis_lowongan:'Full Time',
+            nama_mitra:'PSI UNIMED',
+            lokasi:'Medan'
+        },
+        {
+            id_lowongan:3,
+            posisi:'Kasir',
+            jenis_lowongan:'Part Time',
+            nama_mitra:'Chatime',
+            lokasi:'Medan'
+        },
+        {
+            id_lowongan:4,
+            posisi:'Business Intelligence',
+            jenis_lowongan:'Full Time',
+            nama_mitra:'HIJUP',
+            lokasi:'Jakarta'
+        },
+        {
+            id_lowongan:5,
+            posisi:'Data Analyst',
+            jenis_lowongan:'Intern',
+            nama_mitra:'Warung Pintar',
+            lokasi:'D.I. Yogyakarta'
+        },
+        {
+            id_lowongan:6,
+            posisi:'Front-End Developer',
+            jenis_lowongan:'Full Time',
+            nama_mitra:'Bukalapak',
+            lokasi:'Bandung'
+        },
+        {
+            id_lowongan:7,
+            posisi:'Waitress',
+            jenis_lowongan:'Part Time',
+            nama_mitra:'Starbucks',
+            lokasi:'Medan'
+        },
+        {
+            id_lowongan:8,
+            posisi:'Product Owner',
+            jenis_lowongan:'Intern',
+            nama_mitra:'Tokopedia',
+            lokasi:'Jakarta'
+        },
+        {
+            id_lowongan:9,
+            posisi:'Android Developer',
+            jenis_lowongan:'Full Time',
+            nama_mitra:'Kominfo Sumut',
+            lokasi:'Medan'
+        },
+        {
+            id_lowongan:10,
+            posisi:'Marketing Manager',
+            jenis_lowongan:'Full Time',
+            nama_mitra:'Gojek',
+            lokasi:'Surabaya'
+        },
+    }
+}
